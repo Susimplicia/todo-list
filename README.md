@@ -1,5 +1,8 @@
 # 📝 To-Do List
 
+## 🔗 Live Demo
+https://susimplicia.github.io/todo-list/
+
 A simple task management application built with vanilla JavaScript.  
 This project was created to practice DOM manipulation and basic programming logic.
 

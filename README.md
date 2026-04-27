@@ -8,7 +8,7 @@ This project was created to practice DOM manipulation and basic programming logi
 
 ## 📸 Preview
 
-![Project Preview](./preview.png)
+![Project Preview](./preview.PNG)
 
 ## 🚀 Features
 
